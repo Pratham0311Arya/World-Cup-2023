@@ -1,4 +1,4 @@
-# World Cup 23 Cricket Tournament Analysis
+# ICC CRICKET World Cup 2023 Analysis
 
 ## Introduction
 
