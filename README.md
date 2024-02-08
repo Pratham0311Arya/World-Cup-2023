@@ -9,12 +9,14 @@ This repository delves into a rich analysis of the World Cup 23 cricket tourname
 ### Data Sources
 - The data is initially gathered by scraping from sources such as Cricbuzz and ESPNinfo websites using BeautifulSoup.
 - Preprocessing steps: Data cleaning to handle missing values, inconsistencies, and outliers
+- New columns have been generated using existing columns to get more insights.
 
-### Data Structure
-- The data is organized into tables with fields representing various metrics such as innings scores, player performance, batting reports, bowling statistics, match data, etc.
-
-### Data Quality
-- Data cleaning procedures implemented to address issues like missing values, inconsistencies, or outliers.
+## Libraries Used
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- BeautifulSoup
 
 ## Analysis Scope
 
