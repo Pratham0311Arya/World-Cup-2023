@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository delves into a rich analysis of the World Cup 23 cricket tournament, unlocking valuable insights into player and team performances. By exploring various batting and bowling metrics, we gain a deeper understanding of the factors that shaped outcomes and individual contributions.
+This repository delves into a rich analysis of the World Cup 23 cricket tournament, unlocking valuable insights into player and team performances. By exploring various batting and bowling metrics, we gain a deeper understanding of the factors that shaped outcomes and individual contributions. Have used PowerBI for making interactive dashboards too.
 
 ## Data Exploration and Cleaning
 
@@ -11,12 +11,15 @@ This repository delves into a rich analysis of the World Cup 23 cricket tourname
 - Preprocessing steps: Data cleaning to handle missing values, inconsistencies, and outliers
 - New columns have been generated using existing columns to get more insights.
 
-## Libraries Used
+## Softwares/Libraries Used
+- PowerBI
+- Python (Juypter Notebook)
 - Numpy
 - Pandas
 - Seaborn
 - Matplotlib
 - BeautifulSoup
+
 
 ## Analysis Scope
 
