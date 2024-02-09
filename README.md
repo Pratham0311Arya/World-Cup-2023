@@ -12,7 +12,7 @@ This repository delves into a rich analysis of the World Cup 23 cricket tourname
 - New columns have been generated using existing columns to get more insights.
 
 ## Softwares/Libraries Used
-- PowerBI
+- Power BI
 - Python (Juypter Notebook)
 - Numpy
 - Pandas
