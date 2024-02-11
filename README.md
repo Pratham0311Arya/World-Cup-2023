@@ -4,6 +4,14 @@
 
 This repository delves into a rich analysis of the World Cup 23 cricket tournament, unlocking valuable insights into player and team performances. By exploring various batting and bowling metrics, we gain a deeper understanding of the factors that shaped outcomes and individual contributions. Have used PowerBI for making interactive dashboards too.
 
+![Screenshot (62)](https://github.com/Pratham0311Arya/World-Cup-2023/assets/143388323/424ff27b-8d00-44d6-b7b3-e0150d6e138c)
+
+![Screenshot (79)](https://github.com/Pratham0311Arya/World-Cup-2023/assets/143388323/621bc61c-3acf-4e6d-abba-35b957b5595c)
+
+
+
+
+
 ## Data Exploration and Cleaning
 
 ### Data Sources
