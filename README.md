@@ -27,6 +27,8 @@ This repository delves into a rich analysis of the World Cup 23 cricket tourname
 - Seaborn
 - Matplotlib
 - BeautifulSoup
+- MySQL
+- Machine Learning Algo's
 
 
 ## Analysis Scope
@@ -73,4 +75,10 @@ This repository delves into a rich analysis of the World Cup 23 cricket tourname
 - Match Wins by Team: Count the total matches won by each team.
 - 200-Run First Innings and Wins: Analyze teams who scored 200+ in the first innings and their win-loss record.
 - 400-Run First Innings and Losses: Analyze teams who scored 400+ in the first innings and their win-loss record.
+
+### Conclusion
+
+- We are now able to assemble the optimal 11-player team from the entire project, ensuring a balanced composition with bowlers, all-rounders, power hitters, and partnership builders.
+- Additionally, we have developed the capability to forecast the potential runs a player might score in upcoming matches, aiding in the selection process and evaluating player form.
+- Furthermore, a comprehensive report for each bowler and batsman is available through an interactive Power BI Dashboard.
 
