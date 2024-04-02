@@ -1,4 +1,4 @@
-# ICC CRICKET World Cup 2023 Analysis
+# ICC Cricket World Cup 2023 Analysis
 
 ## Introduction
 
@@ -7,6 +7,9 @@ This repository delves into a rich analysis of the World Cup 23 cricket tourname
 ![Screenshot (62)](https://github.com/Pratham0311Arya/World-Cup-2023/assets/143388323/424ff27b-8d00-44d6-b7b3-e0150d6e138c)
 
 ![Screenshot (79)](https://github.com/Pratham0311Arya/World-Cup-2023/assets/143388323/621bc61c-3acf-4e6d-abba-35b957b5595c)
+
+![MatchReport](https://github.com/Pratham0311Arya/World-Cup-2023/assets/143388323/01350287-8c93-45ef-8985-7afa926a6a54)
+
 
 
 
